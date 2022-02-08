@@ -1,2 +1,13 @@
-# -exercicio002-CSS-SoulCodeJavaFullStack
-A proposta deste exercício é a prática de box model e display inline e inline-block
+# Exercicio 002-CSS -SoulCode Java Full Stack
+
+<br>
+
+- O que foi praticado:
+    - Box model;
+    - Display inline;
+    - Display inline-block;
+    - Display block;
+
+<br>
+
+![foto exemplo do exercício](./src/imgs/exercicio002.png)
